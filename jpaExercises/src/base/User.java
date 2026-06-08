@@ -5,8 +5,7 @@ import javax.persistence.Id;
 
 @Entity
 public class User {
-	/*--this comment was added only to test a git commit command
-	and can be removed any time.*/
+	
 	@Id
 	private long id;
 	private String name;
