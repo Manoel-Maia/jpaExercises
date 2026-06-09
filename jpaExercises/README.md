@@ -1,0 +1,1 @@
+This project is an old study project I had on my computer and I've decided to use it to test Git commands and GitHub functionalities.
