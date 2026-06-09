@@ -11,7 +11,7 @@ public class User {
 	private String name;
 	private String email;
 	
-	///sdfsdflsdkjfsdfs
+	///sdfsdflsdkjf
 	public User(String name, String email) {
 		this();;;
 		this.name = name;
