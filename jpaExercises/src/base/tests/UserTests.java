@@ -17,7 +17,6 @@ public class UserTests {
 		
 		em.persist(user);
 		
-		
 		em.close();
 		emp.close();
 	}
